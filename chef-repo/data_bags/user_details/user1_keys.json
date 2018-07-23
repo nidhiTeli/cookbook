@@ -1,0 +1,17 @@
+{
+  "id": "user1_keys",
+  "admins": [
+    "nidhit"
+  ],
+  "clients": [
+    "client01",
+    "client03-windows",
+    "client02-ubuntu"
+  ],
+  "search_query": "*:*",
+  "mode": "default",
+  "client01": "OP98lrHcx3bjZjqpw4hyzDXutQPRcFob9/VR5q4IGYMjbi4gKulEXoCcWQVq\naP++2/PhFMhyDRSDwq47RWuq8/Fl6egfCo1quyM6MlND+d+xDDIaGVYro9KV\nqVNC2J5laaRSA4lFUJRkqMOUloAOCP40HyxKDeZTm779xnHi5bp0u+PesXI4\neBCrJ7avVteCuUmePOHg3asSznjKreQrZRcHtaszst3HqzLUm0w5kXkJvVcn\nYyOOagQpEI7MmFI29TBKvKkzgUi2UHJMlTcZZhXAgTeg+N35IFsGDpZMU1M6\nEs1lgtkJzdmJZ93rqzExZHBvKBpCTToQElBye+YX8g==\n",
+  "client03-windows": "dR9HRXhoykCTmA537yNzXEPqDFtB6pfSLVM53wtaIG7DKKw+Akr+IMDCR/IX\neHiE2RfKP4kqqJT/bOqaimKpL3Q4n+7UmTqbHHUvowSbFsu+zb34l1QC1G0/\nhqr8rhw3AKFcUnzfBGayhb9wGnzNlxk8jvp4/GmGGG+3PqIc6RzLxNGd/m+B\nXFJyMNqZpUuxVGt2dXl/eRFSJwXmdFp+WcDWXrZm5pT29HIWP60Zw+PCliAZ\nZF/FxTC8EGnhk3yMlrx5bQkhmdjTbVTNA9rgBJhCzrpz0zr/pLIm/xTR5idG\nGmL858o3n5X0x9RVq1EO3RoNgCAemroTcOyrcZEGog==\n",
+  "client02-ubuntu": "l5AhPlyFXQCRrY/BE2bS8ZLZmt57M8Bim1DfzpZlhp2c4+GuxSWsJutC8HBo\nOa7Dc3B+hvzum/O/eZ2VIWpn2dAASvGhHboVqXOWVoNGZiZ6NkPgbtljTg9X\nKr8guOkkc7Scp8jQ8ViTbigoSY3rBAdVQXbdBl3XT52vTXPbcSpGNWbSM/iG\njJbitpOpOfYqokOjGJypUdB/e7UDca9lRvmjjdjxGjjBS0QBSHS0fviduedU\nBhtpZMdci3jqkroHDu3166Kp7/Pq+ycq5euvWQiI2Dy946xM44P06HEO1N/C\nDeb+j9Pt4v5g6luW+1jFQJeJ7zX4Bmt+KoMKRiRuzw==\n",
+  "nidhit": "wfh8vnhTXGd8lQT7hBC6rwOml9UDUan6r85wK8YXkD6YIQ228EPvTsT6rm5Y\n4ITExK5I9gnLh+yOFFwsGK1j355g4FO0S/Jmqq7flYrg/ZEMEUnxrBFcfX+P\nmz/k2XdF10pDXV1dynDvySIcj+aX32vK6+OIJTe/2Q3USf5tqPpVOy/qSDHY\nYtoKC+LJ4tEzoFsOVr4sJ7E5FNPjx59SyfDRia5sNfsLmvjxqpjp6uN6/cPT\nUFXcG2sD9Ha1HFyXLy9W3hsdbaai2U/OJm7RP4MrIzSDxfXFGvmsWoB1FY/c\n+QJp4ghasGwVWbfQ6injjuljWOz92Bzkdd7NiDnpeQ==\n"
+}

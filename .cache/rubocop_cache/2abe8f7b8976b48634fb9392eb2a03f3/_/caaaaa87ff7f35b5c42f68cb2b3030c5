@@ -1,0 +1,1 @@
+[{"severity":"error","location":{"begin_pos":994,"end_pos":997},"message":"unexpected token kEND\n(Using Ruby 2.1 parser; configure using `TargetRubyVersion` parameter, under `AllCops`)","cop_name":"Syntax","status":"uncorrected"}]

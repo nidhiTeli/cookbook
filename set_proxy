@@ -1,0 +1,2 @@
+export https_proxy="https://visible_curlproxy:Pspl&123@10.44.208.10:8080"
+export http_proxy="http://visible_curlproxy:Pspl&123@10.44.208.10:8080"

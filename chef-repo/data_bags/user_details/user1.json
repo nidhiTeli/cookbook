@@ -1,0 +1,24 @@
+{
+  "id": "user1",
+  "userName": {
+    "encrypted_data": "v1IyqHVupWAM+AngE/PpWKqFsXNbh6AL\n",
+    "iv": "cawRvUfjZyd8MbNR\n",
+    "auth_tag": "ubO1EJ0+9uTk54JSQ9I+0w==\n",
+    "version": 3,
+    "cipher": "aes-256-gcm"
+  },
+  "emailId": {
+    "encrypted_data": "NdLy6Zkgt580760S9Np2xrsxwkwhWxYmDYOSoBsqyH9oOc9oCa73/ak=\n",
+    "iv": "XEakOtQ+kQlUwt5z\n",
+    "auth_tag": "m0F3X0dqzDLzPDKh3h+YJg==\n",
+    "version": 3,
+    "cipher": "aes-256-gcm"
+  },
+  "password": {
+    "encrypted_data": "Pa8txZMXhSOQH5b3/omMCQRQ0muDsToFh/ZlpYP/SWxMR7s=\n",
+    "iv": "HKLZgFM1gJN03ElX\n",
+    "auth_tag": "fDTq53C9SQp68kmYQo4eAg==\n",
+    "version": 3,
+    "cipher": "aes-256-gcm"
+  }
+}
